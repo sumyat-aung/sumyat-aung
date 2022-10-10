@@ -59,14 +59,20 @@ I believe that by working with people who are more experienced than me, I can le
 
 #  GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=sumyat-aung&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sumyat-aung&theme=dark&hide_border=true)<br/> <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumyat-aung&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/>
+![](https://github-readme-stats.vercel.app/api?username=sumyat-aung&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/><br/>
 
-###  Random Dev Quote
+![](https://github-readme-streak-stats.herokuapp.com/?user=sumyat-aung&theme=dark&hide_border=true)<br/> <br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumyat-aung&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/> <br/>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sumyat-aung)   <br/> <br/>
+
+
+##  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) <br/>
 
-###  Random Dev Meme
+
+##  Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>  <br/>
 
 ---
