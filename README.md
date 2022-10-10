@@ -70,6 +70,8 @@ I believe that by working with people who are more experienced than me, I can le
 <img src="https://random-memer.herokuapp.com/" width="512px"/>  <br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sumyat-aung&icon=2&color=12)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=sumyat-aung&icon=2&color=12)](https://visitcount.itsvg.in) -->
+
+[![](https://visitcount.itsvg.in/api?id=sumyat-aung&label=34099&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 
