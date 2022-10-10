@@ -57,22 +57,19 @@ I believe that by working with people who are more experienced than me, I can le
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SuMyatAung158)  
 
 
+#  GitHub Stats:
 
-# STATISTICS
+![](https://github-readme-stats.vercel.app/api?username=sumyat-aung&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sumyat-aung&theme=dark&hide_border=true)<br/> <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumyat-aung&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/>
 
+###  Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumyat-aung&show_icons=true)  
+###  Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>  <br/>
 
-<br/>
-<br/>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sumyat-aung)  
-
-
-<br/>
-<br/>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sumyat-aung)
-
+---
+[![](https://visitcount.itsvg.in/api?id=sumyat-aung&icon=2&color=12)](https://visitcount.itsvg.in)
 
 
