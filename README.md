@@ -5,15 +5,13 @@
 My name is Su Myat Aung. I'm a junior frontend web developer.
 <br/>
 <br/>
-I'm currently working on improving my **frontend** skills by building new projects and websites. I believe that practicing and building projects helps me improve my skills.
-<br/>
-By working on different types of projects, I can learn new techniques and better ways to do things as well as improve my overall productivity. This also allows me to expand my knowledge in different areas, which makes me more versatile when it comes to working on future projects.
+I'm currently working on improving my **frontend** skills by building new projects and websites.
 <br/>
 <br/>
 Coding a website is my passion. I love the challenge of taking a design and turning it into a functioning website. I also enjoy creating custom functionality that isn't available in off-the-shelf solutions.
 <br/>
 <br/>
-Web development is a process that can be extremely rewarding. When you code a website and it turns out beautiful, it feels great to see the final product. Not only does it look good, but it also functions well and provides an enjoyable user experience. This makes web development an interesting and satisfying field to work in.
+When you code a website and it turns out beautiful, it feels great to see the final product. Not only does it look good, but it also functions well and provides an enjoyable user experience. This makes web development an interesting and satisfying field to work in.
 <br/>
 <br/>
 My goal is to continue learning and expanding my skills so that I can create even more amazing websites.
@@ -21,7 +19,7 @@ My goal is to continue learning and expanding my skills so that I can create eve
 <br/>
 I love to collaborate with people in the technology industry and learn from their expertise.
 <br/>
-I believe that by working with people who are more experienced than me, I can learn new things and grow as a professional. Additionally, collaborating with others will help me build relationships and networks within the tech community. Ultimately, this will allow me to better understand and utilize current technologies, which will benefit both my career and employer.
+By working with people who are more experienced than me, I can learn new things and grow as a professional. Additionally, collaborating with others will help me build relationships and networks within the tech community. Ultimately, this will allow me to better understand and utilize current technologies, which will benefit both my career and employer.
 
 <br/>
 <br/>
@@ -29,7 +27,6 @@ I believe that by working with people who are more experienced than me, I can le
 ## These are the essential technologies/skills that I use in frontend development !
 
 ### Skills 
-- Basic of internet and websites
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
