@@ -69,8 +69,8 @@ By working with people who are more experienced than me, I can learn new things 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) <br/>
 
 
-##  Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>  <br/>
+<!-- ##  Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>  <br/> -->
 
 ---
 
