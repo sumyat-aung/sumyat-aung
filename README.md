@@ -67,8 +67,8 @@ If you are coding a website/webapp and you might need sosmeone to collaborate, t
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) <br/>
 
 
-<!-- ##  Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>  <br/> -->
+##  Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>  <br/>
 
 ---
 
