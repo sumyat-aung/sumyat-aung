@@ -20,9 +20,6 @@ My goal is to continue learning and expanding my skills so that I can create eve
 If you are coding a website/webapp and you might need sosmeone to collaborate, then I'd be happy to be apart of it ! Contant me to keep in touch .
 <br/>
 Email - sumyataung1584@gmail.com 
-
-<br/>
-<br/>
 <br/>
 
 ## These are the essential technologies/skills that I use in frontend development !
