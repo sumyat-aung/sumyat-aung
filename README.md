@@ -17,10 +17,7 @@ If you are coding a website/webapp and you might need sosmeone to collaborate, t
 Email - sumyataung1584@gmail.com 
 <br/>
 <br/>
-
-<br/>
-
-<br/>![giphy](https://user-images.githubusercontent.com/108873224/204598203-7fd0251c-8549-4fc7-b279-412d767d727a.gif)
+![giphy](https://user-images.githubusercontent.com/108873224/204598203-7fd0251c-8549-4fc7-b279-412d767d727a.gif)
 
 
 
@@ -82,13 +79,9 @@ Email - sumyataung1584@gmail.com
 ##  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) <br/>
 
-
-##  Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>  <br/>
-
+<!-- ##  Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>  <br/> -->
  
-<br/>
-<br/>
 
 [![](https://visitcount.itsvg.in/api?id=sumyat-aung&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
@@ -96,4 +89,7 @@ Email - sumyataung1584@gmail.com
 <br/>
 
 ![giphy](https://user-images.githubusercontent.com/108873224/204597953-ff022bec-7863-4d0d-9ea6-3186a1b1c5f5.gif)
+<br/>
+
+![giphy](https://user-images.githubusercontent.com/108873224/204598870-b3dd1191-bec4-4954-8f4b-32319d3de968.gif)
 
