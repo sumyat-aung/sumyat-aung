@@ -8,19 +8,21 @@ My name is Su Myat Aung. I'm a frontend web developer.
 I'm currently working on improving my **frontend** skills by building web app and real world websites.
 <br/>
 <br/>
-I love to collaborate with people in the technology industry and learn from their expertise.
-<br/>
-<br/>
-By working with people who are more experienced than me, I can learn new things and grow as a professional. Additionally, collaborating with others will help me build relationships and networks within the tech community. Ultimately, this will allow me to better understand and utilize current technologies, which will benefit both my career and employer.
-<br/>
-<br/>
 My goal is to continue learning and expanding my skills so that I can create even more amazing websites.
 <br/>
 <br/>
 If you are coding a website/webapp and you might need sosmeone to collaborate, then I'd be happy to be apart of it ! Contant me to keep in touch .
 <br/>
+<br/>
 Email - sumyataung1584@gmail.com 
 <br/>
+<br/>
+
+<br/>
+
+<br/>![giphy](https://user-images.githubusercontent.com/108873224/204598203-7fd0251c-8549-4fc7-b279-412d767d727a.gif)
+
+
 
 ## These are the essential technologies/skills that I use in frontend development !
 
@@ -90,5 +92,8 @@ Email - sumyataung1584@gmail.com
 
 [![](https://visitcount.itsvg.in/api?id=sumyat-aung&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
+<br/>
+<br/>
 
+![giphy](https://user-images.githubusercontent.com/108873224/204597953-ff022bec-7863-4d0d-9ea6-3186a1b1c5f5.gif)
 
