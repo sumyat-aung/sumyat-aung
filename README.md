@@ -1,5 +1,4 @@
-# Hey, techies !
-
+# Hey 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+Su+Myat+Aung's+profile!)](https://git.io/typing-svg)
 
 My name is Su Myat Aung. I'm a frontend web developer.
