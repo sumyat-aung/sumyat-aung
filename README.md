@@ -17,34 +17,24 @@ If you are coding a website/webapp and you might need sosmeone to collaborate, t
 Email - sumyataung1584@gmail.com 
 <br/>
 <br/>
-![giphy](https://user-images.githubusercontent.com/108873224/204598203-7fd0251c-8549-4fc7-b279-412d767d727a.gif)
+<!-- ![giphy](https://user-images.githubusercontent.com/108873224/204598203-7fd0251c-8549-4fc7-b279-412d767d727a.gif) -->
 
 
 
 ## These are the essential technologies/skills that I use in frontend development !
 
-### Skills 
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 
-
+<!-- 
 ### Tools
 - Terminal, command prompt ( CLI )
 - Git and GitHub ( version control )
@@ -52,7 +42,7 @@ Email - sumyataung1584@gmail.com
 - Chrome Dev tools ( web developer tools )
 - Gulp ( front-end tasks runner, build tool )
 - VS-code ( code editor )
-- Chrome ( Browser )
+- Chrome ( Browser ) -->
 
 ## Social information
 
