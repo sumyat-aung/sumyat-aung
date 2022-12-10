@@ -75,7 +75,6 @@ Email - sumyataung1584@gmail.com
 [![](https://visitcount.itsvg.in/api?id=sumyat-aung&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <br/>
-<br/>
 
 <!-- ![giphy](https://user-images.githubusercontent.com/108873224/204597953-ff022bec-7863-4d0d-9ea6-3186a1b1c5f5.gif)
 <br/>
