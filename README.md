@@ -60,7 +60,7 @@ Email - sumyataung1584@gmail.com
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sumyat-aung&theme=dark&hide_border=true)<br/> <br/>
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumyat-aung&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/> <br/> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumyat-aung&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/> <br/>
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sumyat-aung)   <br/> <br/> -->
 
@@ -76,8 +76,8 @@ Email - sumyataung1584@gmail.com
 
 <br/>
 
-<!-- ![giphy](https://user-images.githubusercontent.com/108873224/204597953-ff022bec-7863-4d0d-9ea6-3186a1b1c5f5.gif)
+![giphy](https://user-images.githubusercontent.com/108873224/204597953-ff022bec-7863-4d0d-9ea6-3186a1b1c5f5.gif)
 <br/>
 
-![giphy](https://user-images.githubusercontent.com/108873224/204598870-b3dd1191-bec4-4954-8f4b-32319d3de968.gif) -->
+![giphy](https://user-images.githubusercontent.com/108873224/204598870-b3dd1191-bec4-4954-8f4b-32319d3de968.gif)
 
