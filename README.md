@@ -60,7 +60,7 @@ Email - sumyataung1584@gmail.com
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sumyat-aung&theme=dark&hide_border=true)<br/> <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumyat-aung&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/> <br/>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumyat-aung&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/> <br/> -->
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sumyat-aung)   <br/> <br/> -->
 
