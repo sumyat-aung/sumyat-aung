@@ -76,8 +76,8 @@ Email - sumyataung1584@gmail.com
 
 <br/>
 
-![giphy](https://user-images.githubusercontent.com/108873224/204597953-ff022bec-7863-4d0d-9ea6-3186a1b1c5f5.gif)
+<!-- ![giphy](https://user-images.githubusercontent.com/108873224/204597953-ff022bec-7863-4d0d-9ea6-3186a1b1c5f5.gif) -->
 <br/>
 
-![giphy](https://user-images.githubusercontent.com/108873224/204598870-b3dd1191-bec4-4954-8f4b-32319d3de968.gif)
+<!-- ![giphy](https://user-images.githubusercontent.com/108873224/204598870-b3dd1191-bec4-4954-8f4b-32319d3de968.gif) -->
 
