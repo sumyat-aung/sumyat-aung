@@ -15,6 +15,7 @@ https://sumyat.pages.dev/
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumyat-aung&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
+![Snake animation](https://github.com/sumyat-aung/sumyat-aung/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--START_SECTION:waka-->
