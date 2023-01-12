@@ -1,4 +1,4 @@
-**Hey** <br />
+**Hey,** <br />
 **I'm a software engineer specializing in frontend development and I am committed to using my knowledge and expertise to create innovative solutions that can have a lasting and meaningful impact in the world. I am passionate about striving for a more equitable and sustainable future, and I am eager to see what we can achieve together.**
 
 #### Check Out My Portfolio.
@@ -14,7 +14,6 @@ https://sumyat.pages.dev/
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumyat-aung&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumyat-aung&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
