@@ -37,7 +37,6 @@ TypeScript   0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 <!--END_SECTION:waka-->
 
 <br />
-<br />
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/sumyat-aung/count.svg?"  />
