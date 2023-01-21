@@ -1,7 +1,7 @@
 **Hey ,** <br />
 **I'm a software engineer specializing in frontend development and I am committed to using my knowledge and expertise to create innovative solutions that can have a lasting and meaningful impact in the world. I am passionate about striving for a more equitable and sustainable future, and I am eager to see what we can achieve together.**
 
-#### Check Out My Portfolio.
+#### Check Out My Personal Portfolio.
 ````bash
 https://sumyat.pages.dev/
 ````
