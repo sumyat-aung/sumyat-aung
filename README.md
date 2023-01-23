@@ -3,7 +3,7 @@
 
 #### Check Out My Personal Portfolio.
 ````bash
-https://sumyat.pages.dev/
+https://sumyat.pages.dev
 ````
 
 <a href='https://sumyat.pages.dev/'>
