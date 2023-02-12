@@ -32,7 +32,7 @@ https://sumyat.pages.dev
 ```text
 Total Time: 0 secs
 
-TypeScript   0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
