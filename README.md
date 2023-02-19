@@ -25,7 +25,7 @@ https://sumyat.pages.dev
 <br />
 <br />
 
-**What've I been up to this month?**
+**What've I been up to this week?**
 
 <!--START_SECTION:waka-->
 
