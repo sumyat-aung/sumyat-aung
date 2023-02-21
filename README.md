@@ -6,9 +6,9 @@
 https://sumyat.pages.dev
 ````
 
-<a href='https://sumyat.pages.dev/'>
+<!-- <a href='https://sumyat.pages.dev/'>
     <img src='https://user-images.githubusercontent.com/108873224/211860821-15c31441-8db7-4fb7-8537-28a0c11e9408.png' alt='portfolio' align='center' />
-</a>
+</a> -->
 
 <!-- #### GitHub Repository For Portfolio - https://github.com/sumyat-aung/su-myat-aung-portfolio -->
 <br />
