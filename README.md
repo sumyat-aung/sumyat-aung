@@ -30,10 +30,9 @@ https://sumyat.pages.dev
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 58 mins
+Total Time: 0 secs
 
-CSS          55 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   95.92 %
-JavaScript   2 mins          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
