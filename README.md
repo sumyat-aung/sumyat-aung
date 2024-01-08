@@ -37,7 +37,3 @@ Other        43 mins         ▒░░░░░░░░░░░░░░░░
 <br />
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sumyat-aung/count.svg?"  />
-</div>
-
