@@ -11,9 +11,6 @@ https://sumyat.pages.dev
 <br />
 <br />
 
-<!-- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumyat-aung&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</div> -->
 
 <br />
 <br />
