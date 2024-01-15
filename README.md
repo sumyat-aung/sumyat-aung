@@ -31,6 +31,6 @@ Bash         5 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<br />
+
 
 
