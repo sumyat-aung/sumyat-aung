@@ -4,7 +4,7 @@ https://sumyat.pages.dev
 ````
 
 <a href='https://sumyat.pages.dev/'>
-    <img src='https://user-images.githubusercontent.com/108873224/211860821-15c31441-8db7-4fb7-8537-28a0c11e9408.png' alt='portfolio' align='center' />
+    <img src='https://github.com/sumyat-aung/sumyat-aung/assets/108873224/c9b4f2be-c585-4dd3-84e1-692c3854a6d8' alt='portfolio' align='center' />
 </a>
 
 
