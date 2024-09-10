@@ -1,4 +1,4 @@
-#### Check Out My Personal Portfolio.
+#### Check Out My Portfolio ( outdated - 2023 Jan ) 
 ````bash
 https://sumyat.pages.dev
 ````
