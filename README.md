@@ -20,13 +20,13 @@ https://sumyat.pages.dev
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 121 hrs 47 mins
+Total Time: 128 hrs 41 mins
 
-JavaScript        116 hrs 44 mins ███████████████████████▓░   94.29 %
-JSON              2 hrs 52 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-Other             2 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-CSS               45 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-TypeScript        41 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+JavaScript        123 hrs 23 mins ███████████████████████▓░   94.41 %
+JSON              2 hrs 56 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Other             2 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+CSS               54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+TypeScript        42 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
