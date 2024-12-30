@@ -1,4 +1,4 @@
-#### Check Out My Portfolio ( outdated - 2023 Jan ) 
+#### Here's My Ancient Portfolio From Jan 2023 ( Don't Take it Too Seriously ) 
 ````bash
 https://sumyat.pages.dev
 ````
