@@ -23,9 +23,9 @@ https://sumyat.pages.dev
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 22 mins
+Total Time: 5 hrs 29 mins
 
-JavaScript   9 hrs 22 mins   █████████████████████████   100.00 %
+JavaScript   5 hrs 29 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
