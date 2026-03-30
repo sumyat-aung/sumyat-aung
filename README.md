@@ -3,7 +3,7 @@
 https://sumyat.pages.dev 
 ````
 
-<sub>Inspired by [Brittany Chiang's Portfolio (v4)](https://v4.brittanychiang.com/) Not as good as the original!</sub>
+<sub>Inspired by [Brittany Chiang's Portfolio (v4)](https://v4.brittanychiang.com/) </sub>
 
 
 <a href='https://sumyat.pages.dev/'>
